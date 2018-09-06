@@ -4,7 +4,7 @@ Hobby projects
 Excel data:
 Analyse data
 
-Hangman
+Hangman: 
 Speaks for itself
 
 Woordenwiki application:
